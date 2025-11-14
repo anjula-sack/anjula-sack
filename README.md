@@ -6,7 +6,7 @@
 [![Linkedin: anjula-sack](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/anjula-sack/)][linkedin]
 
 - 📚 CTO at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
-- 🏫 Physical Science ICT undergraduate at University of Sri Jayawardenepura
+- 🏫 Physical Science ICT graduate at University of Sri Jayawardenepura
 - ⚡ &ensp;Fun fact: I'm an Intial D fan and a beginner guitar player 
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
 
@@ -72,10 +72,6 @@
 <h3 align="left">Hacktoberfest 2022:</h3>
 
 [![An image of @anjisvj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjisvj)](https://holopin.io/@anjisvj)
-
-**Visitors Count**
-
-![VisitorCount](https://profile-counter.glitch.me/{anjula-sack}/count.svg)
 
 
 <a href="https://www.buymeacoffee.com/anjisvj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
