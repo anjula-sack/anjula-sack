@@ -10,15 +10,6 @@
 - ⚡ &ensp;Fun fact: I'm an Intial D fan and a beginner guitar player 
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
 
-### Connect With Me
-
-[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-[<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
-
-
 <br />
 <br />
 
