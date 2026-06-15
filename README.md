@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/anjula-sack?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: anjula-sack](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/anjula-sack/)][linkedin]
 
-- 📚 CTO at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
+- 📚 Former CTO at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
 - 🏫 Physical Science ICT graduate at University of Sri Jayawardenepura
 - ⚡ &ensp;Fun fact: I'm an Intial D fan and a beginner guitar player 
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
